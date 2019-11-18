@@ -5,12 +5,13 @@
 ## 시스템 구성
 - NameNode 1대, DataNode 3대(Sencondary NM 1대) 구성
 - 스케줄러는 Oozie
-- MetaDB는 Ma
+- MetaDB는 mariaDB
+- YARN 을 이용한 클러스터 메모리 관리
+- 데이터 프로세스는 Hive
 
 ### 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAyNTUxMDEsLTE3MjIwNzk2MDNdfQ
-==
+eyJoaXN0b3J5IjpbMTE1NTA5MDI3NCwtMTcyMjA3OTYwM119
 -->
