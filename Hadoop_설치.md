@@ -12,10 +12,13 @@
 
 ### 설치
 1. VirtualBox 를 통한 우분투 설치. (Master)
-2. 
+2. 기본 환경 설정
+	- sudo apt-get update && upgrade
+	- 
+						
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjk2MjQ2OSwtMTQ3OTYzMzU2MCwtMT
+eyJoaXN0b3J5IjpbMTM3MzQxMTAwNSwtMTQ3OTYzMzU2MCwtMT
 cyMjA3OTYwM119
 -->
