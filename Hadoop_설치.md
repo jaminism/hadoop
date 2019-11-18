@@ -27,11 +27,18 @@
 	  slave2 : 192.168.100.103
 	  slave3 : 192.168.100.104
 	  
+		
+	- 위의 설정값 입력
 		`sudo vu /etc/hosts`
-		위의 설정값 입력
+		
 		`127.0.0.1 localhost`
+		`192.168.100.101 master`
+		`192.168.100.102 slave1`
+		`192.168.100.103 slave2`
+		`192.168.100.104 slave3`
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTc2MjA2MiwxMzczNDExMDA1LC0xND
-c5NjMzNTYwLC0xNzIyMDc5NjAzXX0=
+eyJoaXN0b3J5IjpbLTEzNzUxNzM0ODQsMTM3MzQxMTAwNSwtMT
+Q3OTYzMzU2MCwtMTcyMjA3OTYwM119
 -->
