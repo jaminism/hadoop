@@ -3,7 +3,7 @@
 - 하둡 에코 시스템의 환경을 구성하기 위해 하둡을 설치하고 기타 컴포넌트인 Hive, Oozie, Spark 등을 설치한다. 
 
 ## 시스템 구성
-- OS는 Ubuntu
+- OS는 Ubuntu 18.04.3
 - NameNode 1대, DataNode 3대(Sencondary NM 1대) 구성
 - 스케줄러는 Oozie
 - MetaDB는 mariaDB
@@ -12,11 +12,10 @@
 
 ### 설치
 1. VirtualBox 를 통한 우분투 설치. (Master)
-	
 2. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTk3MTczLC0xNDc5NjMzNTYwLC0xNz
-IyMDc5NjAzXX0=
+eyJoaXN0b3J5IjpbLTMyNjk2MjQ2OSwtMTQ3OTYzMzU2MCwtMT
+cyMjA3OTYwM119
 -->
