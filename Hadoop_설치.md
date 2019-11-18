@@ -12,11 +12,11 @@
 
 ### 설치
 1. VirtualBox 를 통한 우분투 설치. (Master)
-	리눅스 설치는 블로그를 참조했음.
+	
 2. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk2MzM1NjAsLTE3MjIwNzk2MDNdfQ
-==
+eyJoaXN0b3J5IjpbMTM5NTk3MTczLC0xNDc5NjMzNTYwLC0xNz
+IyMDc5NjAzXX0=
 -->
