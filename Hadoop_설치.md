@@ -24,11 +24,14 @@
 4. 네트워크 설정
 	- master : 192.168.100.101
 	  slave1 : 192.168.100.102
-	  slave1 : 192.168.100.103
-	  slave1 : 192.168.100.104
-	``
+	  slave2 : 192.168.100.103
+	  slave3 : 192.168.100.104
+	  
+		`sudo vu /etc/hosts`
+		위의 설정값 입력
+		`127.0.0.1 localhost`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDM4NjMzLDEzNzM0MTEwMDUsLTE0Nz
-k2MzM1NjAsLTE3MjIwNzk2MDNdfQ==
+eyJoaXN0b3J5IjpbMjAyMTc2MjA2MiwxMzczNDExMDA1LC0xND
+c5NjMzNTYwLC0xNzIyMDc5NjAzXX0=
 -->
