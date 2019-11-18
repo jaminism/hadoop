@@ -19,7 +19,7 @@
 	`sudo apt-get update && sudo apt-get install -y build-essential python oracle-java8-set-default wget vim`
 
 3. 자바 확인
-	  `java -version`
+	  `$ java -version`
 						
 4. 네트워크 설정
 	- master : 192.168.100.101
@@ -29,7 +29,7 @@
 	  
 		
 	- 위의 설정값 입력
-		`sudo vu /etc/hosts`
+		`$ sudo vu /etc/hosts`
 		
 		`127.0.0.1 localhost`
 		`192.168.100.101 master`
@@ -37,8 +37,10 @@
 		`192.168.100.103 slave2`
 		`192.168.100.104 slave3`
 
-
+	- hostname 변경
+		`$ sudo vi /etc/hostname`
+		master, slave1, slave2, slave3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUxNzM0ODQsMTM3MzQxMTAwNSwtMT
-Q3OTYzMzU2MCwtMTcyMjA3OTYwM119
+eyJoaXN0b3J5IjpbNjM4NjIzNDc1LDEzNzM0MTEwMDUsLTE0Nz
+k2MzM1NjAsLTE3MjIwNzk2MDNdfQ==
 -->
