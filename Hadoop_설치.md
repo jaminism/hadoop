@@ -13,15 +13,18 @@
 ### 설치
 1. VirtualBox 를 통한 우분투 설치. (Master)
 2. 기본 환경 설정
-	- sudo apt-get update && upgrade
-	- sudo add-apt-repository ppa:webupd8team/java 
-	- sudo apt-get update && sudo apt-get install -y build-essential python oracle-java8-set-default wget vim
-3. 자바 확인
-	- $ java -version
+
+`sudo apt-get update && upgrade`
+`enter code here`
+`sudo apt-get update && sudo apt-get install -y build-essential python`
+
+oracle-java8-set-default wget vim
+4. 자바 확인
+	  `java -version`
 						
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTEwMDYyNSwxMzczNDExMDA1LC0xND
+eyJoaXN0b3J5IjpbLTY4NDQyNzk3MiwxMzczNDExMDA1LC0xND
 c5NjMzNTYwLC0xNzIyMDc5NjAzXX0=
 -->
