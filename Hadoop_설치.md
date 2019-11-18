@@ -5,9 +5,11 @@
 ## 구성
 - VirtualBox 를 통한 분산환경 
 - NameNode 1대, DataNode 3대(Sencondary NM 1대) 구성
-- 
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIwNzk2MDNdfQ==
+eyJoaXN0b3J5IjpbLTEzNTEzMTYxMTQsLTE3MjIwNzk2MDNdfQ
+==
 -->
