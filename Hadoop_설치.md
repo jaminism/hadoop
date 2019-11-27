@@ -41,8 +41,9 @@
 		`$ sudo vi /etc/hostname`
 		master, slave1, slave2, slave3
 		
-5. 
+5. 그룹 추가
+	` sudo vi adduser --ingroup hadoop hduser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTYzOTU3OCw2Mzg2MjM0NzUsMTM3Mz
+eyJoaXN0b3J5IjpbMTY4OTMyMDk5Myw2Mzg2MjM0NzUsMTM3Mz
 QxMTAwNSwtMTQ3OTYzMzU2MCwtMTcyMjA3OTYwM119
 -->
