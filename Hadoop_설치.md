@@ -42,8 +42,13 @@
 		master, slave1, slave2, slave3
 		
 5. 그룹 추가
-	` sudo vi adduser --ingroup hadoop hduser
+	`$ sudo vi adduser --ingroup hadoop hduser`
+	
+	`$ sudo vi /etc/sudoers`
+	`# User privilege specification
+	root	ALL=(ALL:)`
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTMyMDk5Myw2Mzg2MjM0NzUsMTM3Mz
-QxMTAwNSwtMTQ3OTYzMzU2MCwtMTcyMjA3OTYwM119
+eyJoaXN0b3J5IjpbMjI4MDY1MzAsNjM4NjIzNDc1LDEzNzM0MT
+EwMDUsLTE0Nzk2MzM1NjAsLTE3MjIwNzk2MDNdfQ==
 -->
