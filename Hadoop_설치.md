@@ -63,8 +63,11 @@
 	`reboot`
 	만약 권한때문에 안되면 sudo reboot
 
-
+8. 하둡 설치
+	[https://hadoop.apache.org/releases.html](https://hadoop.apache.org/releases.html) 에서 하둡 다운로드
+	테스트로 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzg1NzU0MSw2Mzg2MjM0NzUsMTM3Mz
-QxMTAwNSwtMTQ3OTYzMzU2MCwtMTcyMjA3OTYwM119
+eyJoaXN0b3J5IjpbMzA4NjE1MjQ4LC00MDc4NTc1NDEsNjM4Nj
+IzNDc1LDEzNzM0MTEwMDUsLTE0Nzk2MzM1NjAsLTE3MjIwNzk2
+MDNdfQ==
 -->
