@@ -52,8 +52,12 @@
 
 6. 공개 키 생성
 	`apt-get install openssh-server`
-	``
+	설치 후
+	`ssh-keygen -t rsa -P ""`
+	입력 뒤에 엔터를 두번~
+	.ssh 폴더에 autohrized_keys 파일을 복사한다.
+	`cat .ssh/id_`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTMyNzAwOSw2Mzg2MjM0NzUsMTM3Mz
-QxMTAwNSwtMTQ3OTYzMzU2MCwtMTcyMjA3OTYwM119
+eyJoaXN0b3J5IjpbLTY5ODY0MjEsNjM4NjIzNDc1LDEzNzM0MT
+EwMDUsLTE0Nzk2MzM1NjAsLTE3MjIwNzk2MDNdfQ==
 -->
