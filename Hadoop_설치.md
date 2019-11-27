@@ -29,7 +29,7 @@
 	  
 		
 	- 위의 설정값 입력
-		`$ sudo vu /etc/hosts`
+		`$ sudo vi /etc/hosts`
 		
 		`127.0.0.1 localhost`
 		`192.168.100.101 master`
@@ -40,7 +40,9 @@
 	- hostname 변경
 		`$ sudo vi /etc/hostname`
 		master, slave1, slave2, slave3
+		
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NjIzNDc1LDEzNzM0MTEwMDUsLTE0Nz
-k2MzM1NjAsLTE3MjIwNzk2MDNdfQ==
+eyJoaXN0b3J5IjpbMTYzNTYzOTU3OCw2Mzg2MjM0NzUsMTM3Mz
+QxMTAwNSwtMTQ3OTYzMzU2MCwtMTcyMjA3OTYwM119
 -->
