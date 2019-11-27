@@ -49,7 +49,11 @@
 	root	ALL=(ALL:ALL)	ALL`
 	- 여기 하위에 hduser를 추가한다.
 	` hduser	ALL=(ALL:ALL)	ALL`	
+
+6. 공개 키 생성
+	`apt-get install openssh-server`
+	``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODUwMjcwNSw2Mzg2MjM0NzUsMTM3Mz
+eyJoaXN0b3J5IjpbMTgzMTMyNzAwOSw2Mzg2MjM0NzUsMTM3Mz
 QxMTAwNSwtMTQ3OTYzMzU2MCwtMTcyMjA3OTYwM119
 -->
