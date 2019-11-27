@@ -67,9 +67,11 @@
 	[https://hadoop.apache.org/releases.html](https://hadoop.apache.org/releases.html) 에서 하둡 다운로드 >> 2.9.2 버전을 링크 주소 복사해서 wget 으로 받았다. 
 	`wget http://apache.mirror.cdnetworks.com/hadoop/common/hadoop-2.9.2/hadoop-2.9.2-src.tar.gz`
 
-
+9. 압축 해제
+	
+	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzYyNjg2NywtNDA3ODU3NTQxLDYzOD
+eyJoaXN0b3J5IjpbMTc3NDc5MDA5OCwtNDA3ODU3NTQxLDYzOD
 YyMzQ3NSwxMzczNDExMDA1LC0xNDc5NjMzNTYwLC0xNzIyMDc5
 NjAzXX0=
 -->
