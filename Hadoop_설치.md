@@ -46,9 +46,10 @@
 	
 	`$ sudo vi /etc/sudoers`
 	`# User privilege specification
-	root	ALL=(ALL:)`
-	
+	root	ALL=(ALL:ALL)	ALL`
+	- 여기 하위에 hduser를 추가한다.
+	` hduser	ALL=(ALL:ALL)	ALL`	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MDY1MzAsNjM4NjIzNDc1LDEzNzM0MT
-EwMDUsLTE0Nzk2MzM1NjAsLTE3MjIwNzk2MDNdfQ==
+eyJoaXN0b3J5IjpbMTM4ODUwMjcwNSw2Mzg2MjM0NzUsMTM3Mz
+QxMTAwNSwtMTQ3OTYzMzU2MCwtMTcyMjA3OTYwM119
 -->
