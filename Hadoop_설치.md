@@ -68,10 +68,11 @@
 	`wget http://apache.mirror.cdnetworks.com/hadoop/common/hadoop-2.9.2/hadoop-2.9.2.tar.gz`
 
 9. 압축 해제
-	
-	 
+	`tar -zxvf hadoop-2.9.2.tar.gz`
+	 압축 해제한 폴더를 /usr/local/ 에 옮겨준다.
+	`mv hadoop-2.9.2 `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTc0NTQwMywxNzc0NzkwMDk4LC00MD
-c4NTc1NDEsNjM4NjIzNDc1LDEzNzM0MTEwMDUsLTE0Nzk2MzM1
-NjAsLTE3MjIwNzk2MDNdfQ==
+eyJoaXN0b3J5IjpbNzA2NTEwNzI0LDE3NzQ3OTAwOTgsLTQwNz
+g1NzU0MSw2Mzg2MjM0NzUsMTM3MzQxMTAwNSwtMTQ3OTYzMzU2
+MCwtMTcyMjA3OTYwM119
 -->
