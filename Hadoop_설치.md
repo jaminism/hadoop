@@ -61,8 +61,10 @@
 7. 재부팅
 	재부팅 한번 해준다.
 	`reboot`
-	만약 권한때문에 안되면 
+	만약 권한때문에 안되면 sudo reboot
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkzNjQ4Myw2Mzg2MjM0NzUsMTM3Mz
+eyJoaXN0b3J5IjpbLTQwNzg1NzU0MSw2Mzg2MjM0NzUsMTM3Mz
 QxMTAwNSwtMTQ3OTYzMzU2MCwtMTcyMjA3OTYwM119
 -->
